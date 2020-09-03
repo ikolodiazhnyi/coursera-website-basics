@@ -13,5 +13,5 @@ At the end of the course, I will be able to:
 In this course, I will complete: 
 2 assignments writing HTML, CSS and JavaScript, each taking ~1 hour to complete
 4 quizzes, each taking ~20 minutes to complete
-1 programming exercise~30 minutes to complete
+1 programming exercise ~30 minutes to complete
 multiple practice quizzes, each taking ~5 minutes to complete
